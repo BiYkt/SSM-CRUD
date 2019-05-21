@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ssm-crud"
+  id="myeclipse.1555936032210"
+  context-root="/ssm-crud"
+  j2ee-spec="1.7"
+  archive="ssm-crud.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
